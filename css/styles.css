@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+}
+
+.alturaSlider {
+    background-color: aqua;
+    height: 500px;
+}
+
+.alturaSeccion {
+    background-color: bisque;
+    border: 2px solid purple;
+    height: 300px;
+}
+
+.alturaAside {
+    background-color: burlywood;
+    height: 300px;
+    border: 2px solid purple;
+}
+
+.alturaFooter {
+    background-color: burlywood;
+    height: 300px;
+    border: 2px solid purple;
+}
